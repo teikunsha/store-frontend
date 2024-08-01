@@ -1,6 +1,6 @@
 # 【 文具購物網站 】
 
-前端部分Vue框架GitHub頁面
+前端部分Vue框架
 
 使用Docker與Nginx部署Vue
 
