@@ -10,7 +10,7 @@
 
 購物車功能網站
 
-<img width="379" height="800" src="https://github.com/teikunsha/store_spring_boot/blob/master/img-readme/store-spring-boot.png"/>
+<img width="379" height="800" src="https://github.com/teikunsha/store-frontend-main/blob/main/img-readme/store-spring-boot.png?raw=true"/>
 
 ### 前端：
 
