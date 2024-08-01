@@ -4,7 +4,7 @@
 
 使用Docker與Nginx部署Vue
 
-[前往後端GitHub頁面](https://github.com/gsbka7/store-backend)
+[前往後端GitHub頁面](https://github.com/teikunsha/store-backend)
 
 ## 1. 介紹
 
